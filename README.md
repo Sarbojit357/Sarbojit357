@@ -1,7 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sarbojit Podder</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+<img align ="right" alt ="coding" width="400" src ="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarbojit357&label=Profile%20views&color=0e75b6&style=flat" alt="sarbojit357" /> </p>
 
