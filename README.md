@@ -18,28 +18,3 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarbojit podder" height="30" width="40" />
 </a>
 </p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarbojit357&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffcc00&text_color=daf7dc&bg_color=151515" alt="Sarbojit Podder's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarbojit357&theme=dark&hide_border=true" alt="Sarbojit Podder's GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbojit357&layout=compact&hide_border=true&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="Sarbojit Podder's Most Used Languages" />
-</p>
-
----
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/simplified">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" />
-  </a>
-</p><br><br>
